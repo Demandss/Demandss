@@ -10,7 +10,6 @@
 ![Rust Language](https://img.shields.io/badge/Rust%20-%23e66400.svg?&style=for-the-badge&logo=rust&ogoColor=white&color=inactive)
 ![Spring](https://img.shields.io/badge/Spring%20-%236CB33D.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin%20-%23B026EB.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Openstack](https://img.shields.io/badge/Openstack-%23f01742.svg?&style=for-the-badge&logo=openstack&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23d02678.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
