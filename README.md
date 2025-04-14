@@ -13,6 +13,8 @@
 ![Apache](https://img.shields.io/badge/apache%20-%23d02678.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F05033.svg?&style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23F05033.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
 
 
 ## My stats
